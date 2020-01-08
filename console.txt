@@ -1,0 +1,3 @@
+composer require --dev phpunit/phpunit ^8 - установка фреймворка для PHPUnit;
+
+./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/<NameClassTest> - запуск тестирования;
