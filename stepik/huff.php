@@ -1,13 +1,15 @@
 <?php
 
+namespace Stepik;
+
 abstract class Node
 {
   public string $char;
+  public array $buff;
 
   public function code($code)
   {
     $this->code = $code;
-    $arr[$this->char] = $code;
   }
 }
 
@@ -46,13 +48,12 @@ final class InternalNode extends Node
   }
 }
 
-function recursive($huff_tree, $arr)
+function recursive(Node $huff_tree, $arr)
 {
   $buf = $arr;
   foreach ($huff_tree as $item){
     if($item instanceof Leaf){
       $buf[$item->char] = $item->code;
-      print_r($item->char . ': ' . $item->code . PHP_EOL);
     }else{
       return recursive($item, $buf);
     }
@@ -68,7 +69,8 @@ function code_huff($inputStr)
   if (count($arr) === 1){
     $code = "0";
     print_r('1 1');
-    print_r($inputStr . ': ' . $code);
+    print_r($inputStr . ': ' . $code . PHP_EOL);
+    print_r($code . PHP_EOL);
     return $code;
   }
 
@@ -85,13 +87,21 @@ function code_huff($inputStr)
   }
   $root = $pq->extract()[0];
   $root->code("");
+
   $arr_huff = [];
   $arr_huff = recursive($root, $arr_huff);
+
   foreach ($arr as $char){
     $code .= $arr_huff[$char];
   }
-  return $code;
+
+  print_r(count($symbolRate) . ' ' . strlen($code) . PHP_EOL);
+
+  foreach ($arr_huff as $k => $v){
+    print_r($k . ': ' . $v . PHP_EOL);
+  }
+  print_r($code . PHP_EOL);
 }
 
 $str = trim(fgets(STDIN));
-print_r(code_huff($str));
+code_huff($str);

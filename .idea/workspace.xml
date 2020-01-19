@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9c06f72-df01-4c10-a62d-cf4f28ff540b" name="Default Changelist" comment="" />
+    <list default="true" id="a9c06f72-df01-4c10-a62d-cf4f28ff540b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Dijkstra.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Graph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Sequence.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Stack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/classes/Walker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_structure/searches.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik/huff.php" beforeDir="false" afterPath="$PROJECT_DIR$/stepik/huff.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,10 +27,30 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="dddffc80-7e07-49bf-908b-b0813e2170d5" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
       <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
@@ -50,23 +84,38 @@
       <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
     </include_path>
   </component>
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
   <component name="ProjectId" id="1V509mYwQnshvA5CoiZ3DfiDOS5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.php.debug.xdebug.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data_structure/classes" />
       <recent name="$PROJECT_DIR$/theory" />
       <recent name="$PROJECT_DIR$/stepik" />
       <recent name="$PROJECT_DIR$/codewars" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/data_structure/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -98,41 +147,118 @@
       <workItem from="1578338333777" duration="2167000" />
       <workItem from="1578384879201" duration="122000" />
       <workItem from="1578425600975" duration="2460000" />
-      <workItem from="1578470128458" duration="4854000" />
+      <workItem from="1578470128458" duration="5162000" />
+      <workItem from="1578480343316" duration="603000" />
+      <workItem from="1578497388751" duration="620000" />
+      <workItem from="1579297088847" duration="3194000" />
+      <workItem from="1579433190610" duration="11601000" />
+      <workItem from="1579459130845" duration="8538000" />
     </task>
+    <task id="LOCAL-00001" summary="Initital commit">
+      <created>1578475104005</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578475104005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="code_huff">
+      <created>1579441771375</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579441771375</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initital commit" />
+    <MESSAGE value="code_huff" />
+    <option name="LAST_COMMIT_MESSAGE" value="code_huff" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="86" y="165" key="#CLI_Interpreters" timestamp="1579461845908">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="86" y="165" key="#CLI_Interpreters/0.0.1680.1020@0.0.1680.1020" timestamp="1579461845908" />
+    <state x="0" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579461741479">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="0" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1579461741479" />
     <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578474467116">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="251" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1578474467116" />
-    <state x="439" y="23" key="CommitChangelistDialog2" timestamp="1578475025445">
+    <state x="439" y="23" key="CommitChangelistDialog2" timestamp="1579441771302">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="439" y="23" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1578475025445" />
-    <state x="627" y="268" key="FileChooserDialogImpl" timestamp="1578384999380">
+    <state x="439" y="23" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1579441771302" />
+    <state x="627" y="268" key="FileChooserDialogImpl" timestamp="1579446341939">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="627" y="268" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1578384999380" />
-    <state x="579" y="309" key="NewPhpClassDialog" timestamp="1578474719602">
+    <state x="627" y="268" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1579446341939" />
+    <state width="1198" height="302" key="GridCell.Tab.0.bottom" timestamp="1579467340559">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="579" y="309" key="NewPhpClassDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1578474719602" />
-    <state x="940" y="372" key="NewPhpFileDialog" timestamp="1578474683231">
+    <state width="1198" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340559" />
+    <state width="1198" height="302" key="GridCell.Tab.0.center" timestamp="1579467340559">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="940" y="372" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1578474683231" />
-    <state x="502" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1578470217521">
+    <state width="1198" height="302" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340559" />
+    <state width="1198" height="302" key="GridCell.Tab.0.left" timestamp="1579467340559">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="502" y="336" key="com.intellij.ide.util.TipDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1578470217521" />
-    <state x="503" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1578474072558">
+    <state width="1198" height="302" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340559" />
+    <state width="1198" height="302" key="GridCell.Tab.0.right" timestamp="1579467340559">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="503" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1578474072558" />
+    <state width="1198" height="302" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340559" />
+    <state width="1198" height="302" key="GridCell.Tab.1.bottom" timestamp="1579467340560">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1198" height="302" key="GridCell.Tab.1.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340560" />
+    <state width="1198" height="302" key="GridCell.Tab.1.center" timestamp="1579467340560">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1198" height="302" key="GridCell.Tab.1.center/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340560" />
+    <state width="1198" height="302" key="GridCell.Tab.1.left" timestamp="1579467340560">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1198" height="302" key="GridCell.Tab.1.left/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340560" />
+    <state width="1198" height="302" key="GridCell.Tab.1.right" timestamp="1579467340560">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1198" height="302" key="GridCell.Tab.1.right/0.0.1680.1020@0.0.1680.1020" timestamp="1579467340560" />
+    <state x="579" y="309" key="NewPhpClassDialog" timestamp="1579467502361">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="579" y="309" key="NewPhpClassDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1579467502361" />
+    <state x="940" y="372" key="NewPhpFileDialog" timestamp="1579467589974">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="940" y="372" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1579467589974" />
+    <state x="0" y="142" key="SettingsEditor" timestamp="1579461926786">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="0" y="142" key="SettingsEditor/0.0.1680.1020@0.0.1680.1020" timestamp="1579461926786" />
+    <state x="439" y="242" key="Vcs.Push.Dialog.v2" timestamp="1579441774981">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="439" y="242" key="Vcs.Push.Dialog.v2/0.0.1680.1020@0.0.1680.1020" timestamp="1579441774981" />
+    <state x="502" y="336" key="com.intellij.ide.util.TipDialog" timestamp="1578502445883">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="502" y="336" key="com.intellij.ide.util.TipDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1578502445883" />
+    <state x="499" y="231" key="run.anything.popup" timestamp="1579435928476">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="499" y="231" key="run.anything.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1579435928476" />
+    <state x="503" y="221" width="672" height="678" key="search.everywhere.popup" timestamp="1579464840737">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="503" y="221" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1579464840737" />
   </component>
 </project>
