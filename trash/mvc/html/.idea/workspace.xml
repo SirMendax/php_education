@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6aa1b62-9fd0-4a8b-96ff-709f6f72848d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/framework/libs" />
+      <path value="$PROJECT_DIR$/vendor/framework/core" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1V7weFaOEjZyItBMOtpl5SJl8iF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mvc-oop/html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/conf" />
+      <recent name="$PROJECT_DIR$/vendor/framework/core" />
+      <recent name="$PROJECT_DIR$/vendor/framework" />
+      <recent name="$PROJECT_DIR$/vendor/framework/core/base" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6aa1b62-9fd0-4a8b-96ff-709f6f72848d" name="Default Changelist" comment="" />
+      <created>1576617534867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576617534867</updated>
+      <workItem from="1576617536051" duration="12999000" />
+      <workItem from="1576631890273" duration="21000" />
+      <workItem from="1576691232231" duration="714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="631" y="340" key="FileChooserDialogImpl" timestamp="1576692757592">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="631" y="340" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1576692757592" />
+    <state x="1002" y="310" key="NewPhpClassDialog" timestamp="1576628963507">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="1002" y="310" key="NewPhpClassDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1576628963507" />
+    <state x="1095" y="433" key="NewPhpFileDialog" timestamp="1576629766241">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="1095" y="433" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1576629766241" />
+    <state x="482" y="571" key="com.intellij.ide.util.TipDialog" timestamp="1576631890479">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="482" y="571" key="com.intellij.ide.util.TipDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1576631890479" />
+    <state x="936" y="224" width="672" height="678" key="search.everywhere.popup" timestamp="1576622305159">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="936" y="224" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1576622305159" />
+    <state x="915" y="419" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1576623037519">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="915" y="419" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1576623037519" />
+  </component>
+</project>

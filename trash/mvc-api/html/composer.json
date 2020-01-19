@@ -1,0 +1,11 @@
+{
+  "autoload" : {
+    "psr-4": {
+      "core\\": "vendor/framework/core",
+      "src\\": "src"
+    }
+  },
+  "require": {
+
+  }
+}
