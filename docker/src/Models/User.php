@@ -1,12 +1,9 @@
 <?php
-
-
 namespace src\Models;
-
 
 use framework\Model;
 
-class Test extends Model
+class User extends Model
 {
   protected function getNameClass(): string
   {

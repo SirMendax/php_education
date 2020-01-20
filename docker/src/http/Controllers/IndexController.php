@@ -11,7 +11,7 @@ class IndexController extends Controller
   {
     // Prepare Data
     $test = new Test();
-    $data = ['data' => $test->get("SELECT * FROM tests")];
+    $data = ['data' => $test->find(1)];
 
     // Send Response
     $this->response->sendStatus(200);
