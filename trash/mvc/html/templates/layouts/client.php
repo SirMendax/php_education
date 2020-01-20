@@ -1,9 +1,0 @@
-<!DOCTYPE>
-<html>
-<head>
-    <title>HUI</title>
-</head>
-<body>
-<?=$content?>
-</body>
-</html>

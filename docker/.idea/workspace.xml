@@ -2,17 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="247f884c-2689-4b27-932e-4a7373f8780e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/base.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/.directory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/.idea/html.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/conf/conf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/conf/constant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/conf/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/design.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/src/Controllers/Home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/App.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/Registry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/Route.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/Router.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/http/Request.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/http/Response.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/core/traits/SingletonTrait.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc-api/html/vendor/framework/helpers/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/.idea/html.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/conf/conf.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/conf/constant.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/conf/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/src/controllers/IndexController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/storage/logs/errors.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/templates/errors/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/templates/errors/dev.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/templates/errors/prod.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/templates/layouts/client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/templates/views/Index/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/App.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/ExceptionHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/Registry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/Router.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/View.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../trash/mvc/html/vendor/framework/core/traits/SingletonTrait.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
@@ -27,6 +91,14 @@
       </set>
     </option>
   </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/framework/http" />
+      <path value="$PROJECT_DIR$/vendor/framework/traits" />
+      <path value="$PROJECT_DIR$/vendor/framework/db" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1Wd9VSnnNVBUSZNziAKBIy8E8ig" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,8 +110,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -64,20 +138,53 @@
       <option name="presentableId" value="Default" />
       <updated>1579468627682</updated>
       <workItem from="1579468628858" duration="4984000" />
+      <workItem from="1579493302863" duration="6514000" />
     </task>
+    <task id="LOCAL-00001" summary="controller">
+      <created>1579499692674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579499692674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="controller" />
   </component>
   <component name="WindowStateProjectService">
     <state x="435" y="170" key="#SQL_Dialects" timestamp="1579471493550">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="435" y="170" key="#SQL_Dialects/0.0.1680.1020@0.0.1680.1020" timestamp="1579471493550" />
+    <state x="413" y="18" key="CommitChangelistDialog2" timestamp="1579499692604">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="413" y="18" key="CommitChangelistDialog2/0.0.1680.1020@0.0.1680.1020" timestamp="1579499692604" />
     <state x="623" y="267" key="FileChooserDialogImpl" timestamp="1579473612439">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="623" y="267" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1579473612439" />
+    <state x="963" y="307" key="NewPhpClassDialog" timestamp="1579498766355">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="963" y="307" key="NewPhpClassDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1579498766355" />
+    <state x="984" y="622" key="NewPhpFileDialog" timestamp="1579495607271">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="984" y="622" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1579495607271" />
+    <state x="208" y="245" key="SettingsEditor" timestamp="1579498468415">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="208" y="245" key="SettingsEditor/0.0.1680.1020@0.0.1680.1020" timestamp="1579498468415" />
+    <state x="435" y="241" key="Vcs.Push.Dialog.v2" timestamp="1579499872275">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="435" y="241" key="Vcs.Push.Dialog.v2/0.0.1680.1020@0.0.1680.1020" timestamp="1579499872275" />
   </component>
 </project>
