@@ -2,6 +2,8 @@
 
 namespace Stepik;
 
+use SplPriorityQueue;
+
 abstract class Node
 {
   public string $char;

@@ -4,6 +4,7 @@
     },
   "require": {
     "ext-readline": "*",
-    "ext-mysqli": "*"
+    "ext-mysqli": "*",
+    "ext-xdebug": "*"
   }
 }

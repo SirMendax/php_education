@@ -1,6 +1,0 @@
-$a and $b 	И 	TRUE, если и $a, и $b TRUE.
-$a or $b 	Или 	TRUE, если или $a, или $b TRUE.
-$a xor $b 	Исключающее или 	TRUE, если $a, или $b TRUE, но не оба.
-! $a 	Отрицание 	TRUE, если $a не TRUE.
-$a && $b 	И 	TRUE, если и $a, и $b TRUE.
-$a || $b 	Или 	TRUE, если или $a, или $b TRUE. 
